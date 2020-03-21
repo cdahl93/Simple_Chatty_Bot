@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Check a number is positive/out/
+/Problems/Check a number is positive/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/Sum of numbers divisible by 6/out/
+/Problems/Sum of numbers divisible by 6/out/production/classes/
+/Problems/Symmetrical number/out/
+/Problems/Symmetrical number/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The sequence (1)/out/
+/Problems/The sequence (1)/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
